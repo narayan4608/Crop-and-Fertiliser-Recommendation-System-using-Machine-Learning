@@ -1,4 +1,4 @@
-# Crop-and-Fertiliser-Recommendation-System-using-Machine-Learning
+# Crop-and-Fertiliser-Recommendation-System-using-Machine-Learning (week - 1)
 
 # 🌾 Crop and Fertilizer Recommendation System using Machine Learning
 
