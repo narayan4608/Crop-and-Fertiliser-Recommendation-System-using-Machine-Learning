@@ -24,9 +24,9 @@ This project provides an intelligent solution for recommending the most suitable
 ## 🧠 Machine Learning Models Used
 
 - **Crop Recommendation:**
-  - Naive Bayes Classifier
-  - Random Forest Classifier (best performance)
-  - Decision tree Classifier 
+  - Naive Bayes Classifier (best performance)
+  - Random Forest Classifier 
+  - Decision tree Classifier
 
 
 ---
