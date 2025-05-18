@@ -1,6 +1,6 @@
-# Crop-and-Fertiliser-Recommendation-System-using-Machine-Learning (week - 1)
+# Crop-Recommendation-System-using-Machine-Learning 
 
-# 🌾 Crop and Fertilizer Recommendation System using Machine Learning
+# 🌾 Crop Recommendation System using Machine Learning
 
 This project provides an intelligent solution for recommending the most suitable crop and fertilizer based on soil and environmental parameters using Machine Learning. The goal is to help farmers and agricultural planners make data-driven decisions to improve yield and soil health.
 
@@ -16,7 +16,7 @@ This project provides an intelligent solution for recommending the most suitable
   - Nutrient deficiencies or excesses
   - Crop nutrient requirements
 
-- Interactive web interface (optional: Streamlit or Flask)
+- Interactive web interface (Flask)
 - Scalable and adaptable to regional data
 
 ---
@@ -24,13 +24,10 @@ This project provides an intelligent solution for recommending the most suitable
 ## 🧠 Machine Learning Models Used
 
 - **Crop Recommendation:**
+  - Naive Bayes Classifier
   - Random Forest Classifier (best performance)
-  - Support Vector Machines (SVM)
-  - K-Nearest Neighbors (KNN)
+  - Decision tree Classifier 
 
-- **Fertilizer Recommendation:**
-  - Rule-based system using nutrient delta logic
-  - Optionally enhanced with decision trees or Naive Bayes
 
 ---
 
